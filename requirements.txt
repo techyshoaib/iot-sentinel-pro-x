@@ -1,0 +1,16 @@
+# Core Application Dependencies for IoT Vulnerability Scanner
+# All packages are free and open-source
+
+# Web UI & Visualization
+streamlit>=1.30.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+
+# PDF Report Generation
+reportlab>=4.0.0
+
+# Network & HTTP (Free NVD API)
+requests>=2.31.0
+
+# Testing
+pytest>=7.4.0

@@ -1,3 +1,4 @@
+>>>>>>> HEAD
 # IoT Sentinel Pro — Campus Edition 🛡️
 
 **IoT Sentinel Pro — Campus Edition** is an advanced, professional, zero-cost cybersecurity auditing, asset classification, and vulnerability assessment engine tailored for Internet of Things (IoT) ecosystems on authorized private campus networks.
@@ -193,3 +194,7 @@ pytest tests/ -v
 
 **Q3: How do you verify that the application operates offline?**  
 *Answer:* All core detection heuristics, asset classification, SQLite database operations, PDF/CSV/JSON reporting, and Demo Mode profiles run 100% locally. The NIST NVD lookup operates with strict timeouts, local database caching, and graceful offline fallback.
+=======
+# iot-sentinel-pro-x
+IoT Sentinel Pro X - IoT Device Vulnerability Scanner
+>>>>>>> 7be878a5d93346f3db9f038a4f72c7e3380028cb
